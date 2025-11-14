@@ -5,6 +5,7 @@ import path from "path";
 // https://vite.dev/config/
 export default defineConfig({
     plugins: [react()],
+    base: "/f8-fullstack-day33/",
     resolve: {
         alias: {
             // eslint-disable-next-line no-undef
