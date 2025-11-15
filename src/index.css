@@ -10,12 +10,6 @@ body {
     color: #222;
 }
 
-.wrapper {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
-}
-
 .header {
     background: #ffffff;
     border-bottom: 1px solid #e5e5e5;
@@ -44,6 +38,7 @@ body {
 main {
     min-height: 85vh;
     padding: 40px 0;
+    text-align: center;
 }
 
 .footer {
